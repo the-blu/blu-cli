@@ -1,6 +1,6 @@
 {
   "name": "blu-cli",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -27,6 +27,7 @@
     "@google-cloud/bigquery": "^1.3.0",
     "ansi-escape": "^1.1.0",
     "ansi-styles": "^3.2.1",
+    "async": "^2.6.1",
     "caporal": "^0.10.0",
     "chalk": "^2.4.1",
     "figlet": "^1.2.0",
